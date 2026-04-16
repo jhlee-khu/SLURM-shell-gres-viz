@@ -1,6 +1,8 @@
 # SLURM-shell-gres-viz
 Shell-based Slurm GPU allocation visualizer with colored per-user GPU maps, node state indicators, and lightweight live monitoring.
 
+I'm inspired by other project, [SLURM-allocated-gres-visualizer](https://github.com/Haawron/SLURM_allocated_gres_visualizer/blob/master/README.md).
+
 ------
 
 ```bash
